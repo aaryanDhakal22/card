@@ -1,0 +1,5 @@
+Permutation Optimization - the permutation produces redunundant data
+Rating Threads - The 3 hand rating system can be made into othreads
+GUI - aA GUI can be added to make selection easier and the ability to remove or cancel selection
+Sorted Output - An Aestheti  choice but helps to realize the card assignment easily
+
